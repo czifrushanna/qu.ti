@@ -1,6 +1,6 @@
-# qu.ti
+# qu.ti - Quantum Generative Modelling of High-Performance Quantum Dots for Solar Harvesting
 
-Quantum Generative Modelling of High-Performance Quantum Dots for Solar Harvesting
+Find the description of our project in ProjectDescription.pdf.
 
 ## Get started
 
